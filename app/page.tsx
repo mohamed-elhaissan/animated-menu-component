@@ -1,5 +1,5 @@
-import MenuBar from "@/components/menu-bar";
-import ThemeToggle from "@/components/theme-toggle";
+import {MenuBar} from "@/components/menu-bar";
+import {ThemeToggle} from "@/components/theme-toggle";
 
 export default function Home() {
   return (
