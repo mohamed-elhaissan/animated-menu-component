@@ -84,7 +84,7 @@ export function MenuBar() {
 
   return (
     <motion.nav
-      className="p-2 rounded-2xl bg-[#09090b] backdrop-blur-lg border border-border/40 shadow-lg relative overflow-hidden"
+      className="p-2 rounded-2xl dark:bg-[#09090b] backdrop-blur-lg border border-border/40 shadow-lg relative overflow-hidden"
       initial="initial"
       whileHover="hover"
     >
